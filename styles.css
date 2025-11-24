@@ -156,6 +156,7 @@ body {
 .memo-title {
   font-weight: 600;
   font-size: 14px;
+ 
 }
 .memo-body {
   font-size: 13px;
@@ -166,6 +167,8 @@ body {
   -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
   line-clamp: 4;
+   overflow-wrap: anywhere;
+  word-break: break-word;
 }
 .memo-meta {
   display: flex;
