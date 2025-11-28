@@ -1,12 +1,12 @@
 # Memo App
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-👀_Click_here!-blue?style=for-the-badge&logo=github)](https://shotaro-i.github.io/memo-app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-👀_Click_here!-blue?style=for-the-badge&logo=vercel)](https://memo-app-git-main-shotaros-projects-b71e2c39.vercel.app/)
 
 A modern, lightweight note-taking application built with vanilla JavaScript. Features a clean UI with dark/light mode support and local-first data storage.
 
 ## How this project was built
 
-This is learning project.
+This is a learning project.
 From the AI-generated HTML and CSS drafts,
 I wrote the specs and JS within Copilot'.
 Afterward, I made some fixes and add features using AI bug checking and auditing.
@@ -100,4 +100,4 @@ No build process or dependencies required!
 
 ---
 
-Made with ❤️ by [@shotaro-i](https://github.com/shotaro-i) • [MIT Licensed](LICENSE)
+Made with ❤️ by [@shotaroihara](https://github.com/shotaroihara) • [MIT Licensed](LICENSE)
